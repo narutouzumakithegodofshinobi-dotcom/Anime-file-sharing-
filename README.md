@@ -4,7 +4,7 @@
 <h3 align="center">⚡ Next-Gen Anime Platform • Bot + API + Automation</h3><p align="center">
   <img src="https://animeverse1.neocities.org/file_0000000096c0720b94091560e660ffd3.png">
   <img src="https://animeverse1.neocities.org/file_00000000a558720bbfe315177907ab47.png">
-  <img src="https://img.shields.io/github/issues/your-username/anime_ultra_bot?style=for-the-badge">
+  <img src="https://animeverse1.neocities.org/file_00000000612471fa9a03ad40ab7440cb.png">
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge">
 </p>---
 
