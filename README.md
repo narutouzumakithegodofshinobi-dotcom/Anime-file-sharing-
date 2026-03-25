@@ -107,7 +107,7 @@ http://127.0.0.1:8000/docs
 
 ⚙️ Setup
 
-git clone https://github.com/your-username/anime_ultra_bot.git
+git clone https://github.com/narutouzumakithegodofshinobi-dotcom/Anime-file-sharing-/blob/main
 cd anime_ultra_bot
 pip install -r requirements.txt
 
