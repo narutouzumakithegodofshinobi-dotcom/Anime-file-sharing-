@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
+  <img src="https://animeverse1.neocities.org/file_0000000077a0720b8051cc419a471977.png" width="100%">
 </p><h1 align="center">🎬 Ultra Anime Bot</h1>
 <h3 align="center">⚡ Next-Gen Anime Platform • Bot + API + Automation</h3><p align="center">
   <img src="https://animeverse1.neocities.org/file_0000000096c0720b94091560e660ffd3.png">
